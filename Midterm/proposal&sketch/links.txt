@@ -1,0 +1,5 @@
+resources:
+    https://p5js.org/examples/motion-bouncy-bubbles.html
+    https://p5js.org/reference/
+sketch:
+    https://preview.p5js.org/sophiez/present/pVDjdl3wo
